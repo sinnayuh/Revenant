@@ -10,7 +10,12 @@
 namespace Revenant.Properties {
     using System;
     
-    
+/* 
+       │ Author       : rootuwu
+       │ Name         : Revenant
+       │ GitHub       : https://github.com/rootuwu
+*/    
+
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>

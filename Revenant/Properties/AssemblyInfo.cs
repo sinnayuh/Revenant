@@ -1,6 +1,12 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
+/* 
+       │ Author       : rootuwu
+       │ Name         : Revenant
+       │ GitHub       : https://github.com/rootuwu
+*/
+
 [assembly: AssemblyTitle("Revenant")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]

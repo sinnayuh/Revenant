@@ -16,6 +16,12 @@ using Org.BouncyCastle.Crypto.Modes;
 using Org.BouncyCastle.Crypto.Engines;
 using System.Text;
 
+/* 
+       │ Author       : rootuwu
+       │ Name         : Revenant
+       │ GitHub       : https://github.com/rootuwu
+*/
+
 namespace Program
 {
     static class Program
